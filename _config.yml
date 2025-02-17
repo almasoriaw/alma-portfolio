@@ -26,8 +26,11 @@ sidebar:
 
 # Plugins (Make sure these are installed)
 plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-archives
   - jekyll-paginate
-  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-include-cache
+
