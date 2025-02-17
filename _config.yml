@@ -3,7 +3,7 @@ description: "Showcasing my journey in Machine Learning, Cloud Computing, and De
 baseurl: "" # Keep this empty for GitHub Pages
 url: "https://almasoriaw.github.io"  # Change to your GitHub username
 
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Enable features
 minimal_mistakes_skin: "mint" # Try other skins: air, dark, neon
@@ -33,4 +33,5 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-include-cache
+  - jekyll-paginate-v2
 
