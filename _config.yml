@@ -1,6 +1,6 @@
 title: "Alma Soria"
 description: "Showcasing my journey in Machine Learning, Cloud Computing, and DevOps."
-baseurl: "" # Keep this empty for GitHub Pages
+baseurl: "/alma-portfolio" # Keep this empty for GitHub Pages
 url: "https://almasoriaw.github.io"  # Change to your GitHub username
 
 remote_theme: "mmistakes/minimal-mistakes"
