@@ -1,0 +1,33 @@
+title: "Alma Soria"
+description: "Showcasing my journey in Machine Learning, Cloud Computing, and DevOps."
+baseurl: "" # Keep this empty for GitHub Pages
+url: "https://almasoriaw.github.io"  # Change to your GitHub username
+
+theme: minimal-mistakes-jekyll
+
+# Enable features
+minimal_mistakes_skin: "mint" # Try other skins: air, dark, neon
+search: true
+show_excerpts: true # Show short descriptions on homepage
+show_author_profile: true
+# Navigation Menu
+header_pages:
+  - about.md
+  - projects.md
+
+# Sidebar (Optional)
+sidebar:
+  - name: "Main Sidebar"
+    components:
+      - about
+      - categories
+      - tag_cloud
+      - recent_posts
+
+# Plugins (Make sure these are installed)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-seo-tag

@@ -1,0 +1,15 @@
+alma:
+  #name: "Alma Soria"
+  avatar: "/assets/images/AlmaPhoto.jpg"
+  avatar_size: "200px"
+  bio: "Driven by Curiosity, Powered by Growth – An INFJ, Advocating for Life, Science, and Technology."
+  location: "Canada"
+  links:
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/almasoria"
+    style: "margin-bottom: 10px;"  # Adds spacing
+
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/almasoriaw"
