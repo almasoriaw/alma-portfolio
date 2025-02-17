@@ -34,12 +34,14 @@ I’m currently pursuing a **Machine Learning Analyst Diploma** and working on e
 ---
 ### 🔥 <span style="color:black;">Featured Projects</span> {#projects}
 
-{% include feature_row.html  
-image="{{ site.baseurl }}/assets/images/lube_island_winter.jpg"  
-title="Weather Impact on Fluid Transfer Operations"  
-excerpt="Analyzing and building predictive models for equipment efficiency."  
-url="/projects/weather-prediction"  
-btn_label="Learn More" %}
+{% include feature_row.html 
+   image="/alma-portfolio/assets/images/lube_island_winter.jpg" 
+   title="Weather Impact on Fluid Transfer Operations" 
+   excerpt="Analyzing and building predictive models for equipment efficiency."
+   url="/projects/weather-prediction"
+   btn_label="Learn More" 
+%}
+
 
 <p align="center">
   <a href="/projects/" class="btn btn--info">View All Projects</a>
